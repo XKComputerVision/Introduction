@@ -41,45 +41,57 @@
 
 2、部分代表性论文
 
-（1）Fang Zeng, Niannian Chen, Dan Yang, Zhigang Meng et al. Simplified-Boosting Ensemble Convolutional Network for Text Classification[J]. Neural Processing Letters(已录用，JCR Q2)
+（1）Chen H Y, He H J, Chen F, et al. Antinoise learning and coalitional game GAN[J]. International Journal of Pattern Recognition and Artificial Intelligence. 2022, 36(1): 2252001, 1-26. (SCI 4区, CCF-C国际期刊)
 
-（2）Lu, L., Li, S., Chen, N., Gao, L, et al. Learning and Distillating the Internal Relationship of Motion Features in Action Recognition. In International Conference on Neural Information Processing. 2020, 11. Springer, Cham.（JCR Q2）
+（2）陈泓佑, 陈帆, 和红杰, 等. 基于样本特征解码约束的GANs[J]. 自动化学报.2022, 48(9): 2288-2300. (EI, CCF-T1中文期刊, 中国科技期刊卓越行动计划入选期刊)
 
-（3）Ya Pan, Haiyang Ao, Yong Fan. Metamorphic Testing for Autonomous Driving Systems in Fog Based on Quantitative Measurement，2021 IEEE 21th International Conference on Software Quality, Reliability and Security Companion(QRS-C)
+（3）陈泓佑, 陈帆, 和红杰, 等. 基于多任务对抗和抗噪对抗学习的人脸超分辨率算法[J]. 模式识别与人工智能. 2022, 35(10): 863-880. (EI, CCF-T2中文期刊)
 
-（4）Mingshuang Qing, Xiuting Ge, ZhanWei Hui, Ya Pan，Yong Fan，Xiaojuan Wang，Xu Cao，An Empirical Study on Spectral Clustering-based Software Defect Detection，2021 8th International Conference on Dependable Systems and Their Applications (DSA)
+（4）陈泓佑, 和红杰, 陈帆, 等. 基于子样本集构建的DCGANs训练方法[J]. 自动化学报. 2021, 47(4): 913-923. (EI, CCF-T1中文期刊, 中国科技期刊卓越行动计划入选期刊)
 
-（5）Tongtong Bai, Mingshuang Qing, Yong Fan, Ya Pan. Metamorphic Testing for Traffic Lights Recognition in Autonomous Driving Systems. 2021 IEEE 21th International Conference on Software Quality. Reliability and Security Companion(QRS-C)
+（5）Chen H Y, He H J, Chen F. Multi-penalty functions GANs via multi-task learning[C]. International Conference on Artificial Intelligence and Security (ICAIS), Dublin, Ireland. 2021: Part I, 14-26. (EI, 国际会议)
 
-（6）Mingshuang Qing, Jun Luo, Wanming Huang, Jingui Zhang, Ping Wang, Yong Fan, Xiuting Ge, Ya Pan. Static analysis warning prioritization based on machine learning. 2021 IEEE 21th International Conference on Software Quality. Reliability and Security Companion(QRS-C)
+（6）Chen H Y, Chen F, He H J. SSC-GAN: A novel GAN based on the same solution constraints of first-order ODEs[J]. International Journal of Pattern Recognition and Artificial Intelligence. 2021, 35(11): 2152018, 1-20. (SCI 4区, CCF-C国际期刊)
 
-（7）Ya Pan, Xiuting Ge, Chunrong Fang, Yong Fan. A Systematic Literature Review of Android Malware Detection Using Static Analysis. IEEE Access, 2020
+（7）Fang Zeng, Niannian Chen, Dan Yang, Zhigang Meng et al. Simplified-Boosting Ensemble Convolutional Network for Text Classification[J]. Neural Processing Letters(已录用，JCR Q2)
 
-（8）Peng Yang, Zixi Liu, Jin Xu, Yong Huang, Ya Pan. An Empirical Study on the Ability Relationships between Programming and Testing. IEEE Access, 2020
+（8）Ya Pan, Haiyang Ao, Yong Fan. Metamorphic Testing for Autonomous Driving Systems in Fog Based on Quantitative Measurement，2021 IEEE 21th International Conference on Software Quality, Reliability and Security Companion(QRS-C)
 
-（9）Xiuting Ge, Ya Pan, Chunrong Fang, Yong Fan. AMDroid: Android Malware Detection Using Function Call Graphs. 2019 IEEE 19th International Conference on Software Quality, Reliability and Security Companion(QRS-C)
+（9）Mingshuang Qing, Xiuting Ge, ZhanWei Hui, Ya Pan，Yong Fan，Xiaojuan Wang，Xu Cao，An Empirical Study on Spectral Clustering-based Software Defect Detection，2021 8th International Conference on Dependable Systems and Their Applications (DSA)
 
-（10）Yunqi Du, Ya Pan, Haiyang Ao, O.ALEX, Yong Fan. Automatic Test Case Generation and Optimization Based on Mutation Testing. 2019 IEEE 19th International Conference on Software Quality, Reliability and Security Companion (QRS-C) 
+（10）Tongtong Bai, Mingshuang Qing, Yong Fan, Ya Pan. Metamorphic Testing for Traffic Lights Recognition in Autonomous Driving Systems. 2021 IEEE 21th International Conference on Software Quality. Reliability and Security Companion(QRS-C)
 
-（11）廖小华,陈念年,蒋勇等. 改进的卷积神经网络红外图像超分辨率算法[J].红外技术,2020,42.
+（11）Mingshuang Qing, Jun Luo, Wanming Huang, Jingui Zhang, Ping Wang, Yong Fan, Xiuting Ge, Ya Pan. Static analysis warning prioritization based on machine learning. 2021 IEEE 21th International Conference on Software Quality. Reliability and Security Companion(QRS-C)
 
-（12）巫玲,陈念年,范勇,叶一东. 相对角差法重建大口径平面光学元件面形[J].光学学报,2019,39. (EI)
+（12）Ya Pan, Xiuting Ge, Chunrong Fang, Yong Fan. A Systematic Literature Review of Android Malware Detection Using Static Analysis. IEEE Access, 2020
 
-（13）巫玲,武从海,陈念年,范勇. 基于梯度场的紧致差分最小二乘面形重建算法[J].红外与激光工程,2019,48. (EI)
+（13）Lu, L., Li, S., Chen, N., Gao, L, et al. Learning and Distillating the Internal Relationship of Motion Features in Action Recognition. In International Conference on Neural Information Processing. 2020, 11. Springer, Cham.（JCR Q2）
 
-（14）高琳,陈念年,范勇. 融合多尺度上下文卷积特征的车辆目标检测[J].光电工程2019,46.
+（14）廖小华,陈念年,蒋勇等. 改进的卷积神经网络红外图像超分辨率算法[J].红外技术,2020,42.
 
-（15）孙琳,巫玲,陈念年. 基于傅里叶变换的哈特曼波前重构算法比较[J].激光杂志,2019,40.
+（15）Peng Yang, Zixi Liu, Jin Xu, Yong Huang, Ya Pan. An Empirical Study on the Ability Relationships between Programming and Testing. IEEE Access, 2020
 
-（16）Jianmei Su, et al. Robust quadratic programming for mdps with uncertain observation noise[J]. Neurocomputing, 2019, 370: 28-38 (JCR Q2)
+（16）Xiuting Ge, Ya Pan, Chunrong Fang, Yong Fan. AMDroid: Android Malware Detection Using Function Call Graphs. 2019 IEEE 19th International Conference on Software Quality, Reliability and Security Companion(QRS-C)
 
-（17）Jianmei Su, et al. An approximate quadratic programming for efficient bellman equation solution[J]. IEEE Access, 2019, 7: 126077-126087 (JCR Q2)
+（17）Yunqi Du, Ya Pan, Haiyang Ao, O.ALEX, Yong Fan. Automatic Test Case Generation and Optimization Based on Mutation Testing. 2019 IEEE 19th International Conference on Software Quality, Reliability and Security Companion (QRS-C) 
 
-（18）Jianmei Su, et al. Robust spatial–temporal bayesian view synthesis for video stitching with occlusion handling[J]. Machine Vision and Applications, 2018, 29(2): 219-232 (JCR Q2)
+（18）巫玲,陈念年,范勇,叶一东. 相对角差法重建大口径平面光学元件面形[J].光学学报,2019,39. (EI)
 
-（19）高琳. 基于卷积神经网络与一致性预测器的稳健视觉跟踪.光学学报, 2017, 37 (EI)
+（19）巫玲,武从海,陈念年,范勇. 基于梯度场的紧致差分最小二乘面形重建算法[J].红外与激光工程,2019,48. (EI)
 
-（20）Jianmei Su, et al. Bayesian view synthesis for video stitching[C]. 2016 IEEE International Conference on Multimedia & Expo Workshops (ICMEW), 2016, 1-6 (EI) 
+（20）高琳,陈念年,范勇. 融合多尺度上下文卷积特征的车辆目标检测[J].光电工程2019,46.
+
+（21）孙琳,巫玲,陈念年. 基于傅里叶变换的哈特曼波前重构算法比较[J].激光杂志,2019,40.
+
+（22）Jianmei Su, et al. Robust quadratic programming for mdps with uncertain observation noise[J]. Neurocomputing, 2019, 370: 28-38 (JCR Q2)
+
+（23）Jianmei Su, et al. An approximate quadratic programming for efficient bellman equation solution[J]. IEEE Access, 2019, 7: 126077-126087 (JCR Q2)
+
+（24）Jianmei Su, et al. Robust spatial–temporal bayesian view synthesis for video stitching with occlusion handling[J]. Machine Vision and Applications, 2018, 29(2): 219-232 (JCR Q2)
+
+（25）高琳. 基于卷积神经网络与一致性预测器的稳健视觉跟踪.光学学报, 2017, 37 (EI)
+
+（26）Jianmei Su, et al. Bayesian view synthesis for video stitching[C]. 2016 IEEE International Conference on Multimedia & Expo Workshops (ICMEW), 2016, 1-6 (EI)
 
 （21）***廖小华,红外图像超分辨率重建技术研究[D].西南科技大学 2021 优秀硕士毕业论文.***
 
@@ -144,10 +156,9 @@
 
 | **老师** | **QQ**    | **研究生** | **QQ**     |
 | -------- | --------- | ---------- | ---------- |
-| 潘老师   | 409490526 | 白同学     | 1556373371 |
-| 陈老师   | 22743059  | 文同学     | 1113237826 |
-| 蒋老师   | 253172249 | 邓同学     | 851370653  |
-| 巫老师   | 88580901  | 曾同学     | 981665891  |
-| 苏老师   | 929573392 | 吕同学     | 178717515  |
+| 陈老师   | 22743059  | 方同学     | 2788321369 |
+| 蒋老师   | 253172249 | 廖同学     | 2456160268  |
+| 巫老师   | 88580901  | 李同学     | 303542101  |
+| 苏老师   | 929573392 | 杨同学     | 1497259719  |
 
  
